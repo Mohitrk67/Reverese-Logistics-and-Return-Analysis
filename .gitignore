@@ -1,0 +1,21 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments and secrets
+.env
+.env.*
+venv/
+.venv/
+env/
+ENV/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+~$*
+.DS_Store
+Thumbs.db
+
